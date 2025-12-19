@@ -28,11 +28,6 @@ Built with extendability in mind — you can add more features like user profile
 
 🛠 Installation & Setup
 
-Clone the repository:
-
-git clone https://github.com/pra90mathur/wanderlust-project.git
-cd wanderlust-project
-
 Install dependencies:
 
 npm install
